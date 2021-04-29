@@ -1,0 +1,21 @@
+league_id,sub_league_id,name,abbr,gender,designated_hitter
+150,0,"American League","AL",0,1
+150,1,"National League","NL",0,0
+151,0,"","IL",0,1
+152,0,"American Conference","AC",0,1
+152,1,"Pacific Conference","PC",0,1
+153,0,"","EL",0,1
+154,0,"","SL",0,1
+155,0,"","TEX",0,1
+156,0,"","CAL",0,1
+157,0,"","CAR",0,1
+158,0,"","FSL",0,1
+159,0,"","MID",0,1
+160,0,"","SAL",0,1
+161,0,"","NYP",0,1
+162,0,"","NWL",0,1
+163,0,"","APP",0,1
+164,0,"","AZL",0,1
+165,0,"","GCL",0,1
+166,0,"","PIO",0,1
+177,0,"","DSL",0,1
